@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mokshsinghdangi
-- 🌱 I’m currently learning React Javascript
+- 🌱 I am skilled with web development, ethical hacking, 3d animation, and graphics design.
 - 📫 How to reach me -- @mokshsingh23@gmail.com
 
 <!---
